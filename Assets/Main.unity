@@ -1336,7 +1336,7 @@ MonoBehaviour:
   dText: {fileID: 932447223}
   enable: 0
   targetError: 10
-  errorTolerance: 0.01
+  errorTolerance: 0
   speedClamp: 1
   integrationWindowSize: 100
   integrationWindupLimit: 0.2
